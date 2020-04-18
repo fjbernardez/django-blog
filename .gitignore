@@ -1,0 +1,8 @@
+# Ignore files called 'Pipfile'
+Pipfile
+
+# Ignoring directories
+*\.vscode
+
+# Ignoring files by extension
+*.lock
